@@ -1,0 +1,25 @@
+{
+  "new_patient_form": {
+    "form_name": "New Patient Intake Form",
+    "fields": [
+      "Medical History",
+      "Current Medications",
+      "Allergies",
+      "Emergency Contact",
+      "Insurance Information",
+      "Previous Medical Records"
+    ],
+    "template_path": "templates/new_patient_form.html"
+  },
+  "returning_patient_form": {
+    "form_name": "Returning Patient Update Form",
+    "fields": [
+      "Updated Medical History",
+      "Current Medications",
+      "New Allergies",
+      "Insurance Updates",
+      "Reason for Visit"
+    ],
+    "template_path": "templates/returning_patient_form.html"
+  }
+}

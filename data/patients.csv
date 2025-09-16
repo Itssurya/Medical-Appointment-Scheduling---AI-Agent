@@ -1,0 +1,51 @@
+patient_id,first_name,last_name,date_of_birth,phone,email,insurance_carrier,member_id,group_number,is_new_patient,preferred_doctor,last_visit,emergency_contact,emergency_phone,address,city,state,zip_code
+PAT001,Jennifer,Hall,1956-11-11,262-414-1928,jennifer.hall@email.com,Centene,INS376744,GRP2540,False,Dr. David Kim,2024-12-03,Christopher Jackson,348-438-3878,2566 Cedar Ln,Los Angeles,AZ,53472
+PAT002,James,Baker,1969-03-09,904-222-9534,james.baker@email.com,Aetna,INS514654,GRP9454,True,Dr. Michael Chen,2025-03-01,Sarah Campbell,747-537-9399,1707 Main St,Phoenix,IL,35196
+PAT003,David,Torres,2007-08-27,847-190-1778,david.torres@email.com,Blue Cross Blue Shield,INS631589,GRP2900,False,Dr. Sarah Johnson,2024-09-22,Lisa Davis,444-364-5282,5730 Elm St,Phoenix,CA,86762
+PAT004,Jane,Williams,1963-09-18,589-227-5260,jane.williams@email.com,UnitedHealth,INS841725,GRP9493,False,Dr. Lisa Thompson,2024-09-28,Betty Thomas,467-188-2506,7427 Main St,Houston,CA,93342
+PAT005,Jeffrey,Taylor,1960-11-26,286-463-2670,jeffrey.taylor@email.com,Aetna,INS442139,GRP4852,False,Dr. Sarah Johnson,2025-05-28,George Adams,209-874-7011,6028 Cedar Ln,Los Angeles,IL,57134
+PAT006,Jason,Brown,1969-03-24,437-517-4468,jason.brown@email.com,Blue Cross Blue Shield,INS199913,GRP6589,False,Dr. Emily Rodriguez,2024-11-17,Nancy Sanchez,689-890-8871,9630 Pine Rd,Phoenix,NY,64378
+PAT007,Emily,Johnson,1950-01-09,885-483-2375,emily.johnson@email.com,Molina Healthcare,INS653499,GRP8604,True,Dr. Emily Rodriguez,2025-07-25,Jason Baker,246-808-8044,6057 Cedar Ln,Phoenix,CA,50404
+PAT008,Kenneth,Jackson,1978-03-16,871-229-1900,kenneth.jackson@email.com,Kaiser Permanente,INS588454,GRP4963,False,Dr. Michael Chen,,Andrew Anderson,368-463-1883,5153 Cedar Ln,New York,IL,74966
+PAT009,Lisa,Allen,1968-04-23,464-484-3697,lisa.allen@email.com,Blue Cross Blue Shield,INS730887,GRP6402,False,Dr. Emily Rodriguez,2025-02-01,Amanda Martin,847-183-5304,8639 Cedar Ln,Phoenix,NY,35001
+PAT010,Anthony,Miller,1992-07-11,527-148-5541,anthony.miller@email.com,Blue Cross Blue Shield,INS254540,GRP1133,False,Dr. David Kim,2025-04-15,Kenneth Lopez,907-912-4153,5651 Pine Rd,Houston,NY,72646
+PAT011,George,Nelson,1971-09-16,733-434-7790,george.nelson@email.com,Anthem,INS542742,GRP3056,True,Dr. Michael Chen,2024-12-08,Brian Rivera,913-502-1839,2063 Main St,Houston,TX,56629
+PAT012,Donald,White,1978-07-09,494-462-6924,donald.white@email.com,Centene,INS756272,GRP9093,True,Dr. Sarah Johnson,,Betty Martin,312-218-2238,5116 Pine Rd,Houston,TX,33956
+PAT013,Betty,Robinson,1992-11-13,606-804-5858,betty.robinson@email.com,UnitedHealth,INS750984,GRP7301,False,Dr. Lisa Thompson,,Sandra Clark,411-772-5154,7792 Main St,Houston,AZ,15263
+PAT014,Kenneth,Robinson,1945-11-29,386-684-4574,kenneth.robinson@email.com,Kaiser Permanente,INS694405,GRP5687,False,Dr. David Kim,2024-12-16,Joshua Miller,348-521-7064,5254 Pine Rd,Chicago,CA,81341
+PAT015,James,Ramirez,2005-05-30,593-952-5693,james.ramirez@email.com,Anthem,INS222540,GRP3624,False,Dr. Emily Rodriguez,,Sarah Clark,305-706-2971,3496 Pine Rd,Los Angeles,CA,93919
+PAT016,Carol,Lewis,1966-01-05,223-634-2719,carol.lewis@email.com,UnitedHealth,INS708798,GRP1827,False,Dr. Lisa Thompson,2024-11-11,Jeffrey Flores,964-601-4138,1275 Main St,New York,TX,77800
+PAT017,Lisa,Robinson,1952-03-17,304-679-5315,lisa.robinson@email.com,WellCare,INS869373,GRP2736,True,Dr. Emily Rodriguez,,Nancy Wright,945-425-4354,2329 Elm St,Phoenix,NY,59211
+PAT018,Andrew,Moore,1985-10-17,633-389-4444,andrew.moore@email.com,Humana,INS491400,GRP8951,True,Dr. Sarah Johnson,2025-05-21,Nancy Campbell,826-545-7643,6565 Cedar Ln,Los Angeles,AZ,37023
+PAT019,Ronald,Ramirez,1972-06-09,471-503-5601,ronald.ramirez@email.com,WellCare,INS602163,GRP5027,False,Dr. Sarah Johnson,,Amanda Rivera,554-230-6907,4273 Elm St,Houston,TX,13916
+PAT020,Andrew,Lee,1968-06-08,453-304-6948,andrew.lee@email.com,Kaiser Permanente,INS429988,GRP7089,True,Dr. Sarah Johnson,2025-05-29,Kimberly Ramirez,339-931-6777,7843 Main St,Phoenix,TX,20519
+PAT021,Sarah,White,1978-04-21,314-643-6234,sarah.white@email.com,Cigna,INS993782,GRP3084,True,Dr. David Kim,,Karen Sanchez,461-709-5816,894 Pine Rd,Chicago,CA,64230
+PAT022,Kimberly,Sanchez,1997-07-25,991-535-6579,kimberly.sanchez@email.com,UnitedHealth,INS344693,GRP5561,True,Dr. Emily Rodriguez,2024-10-03,Jeffrey Nelson,595-101-4143,442 Elm St,Phoenix,IL,89265
+PAT023,Donald,Walker,1961-01-18,831-341-6291,donald.walker@email.com,Cigna,INS265418,GRP3949,True,Dr. Lisa Thompson,2024-10-25,Betty Adams,605-398-6477,464 Elm St,Los Angeles,NY,63035
+PAT024,Timothy,Miller,1990-08-18,526-735-4902,timothy.miller@email.com,Aetna,INS902971,GRP5587,True,Dr. David Kim,2025-04-05,Anthony Adams,409-374-2341,3419 Elm St,Phoenix,IL,91778
+PAT025,Mark,Gonzalez,2003-11-25,862-478-7487,mark.gonzalez@email.com,Molina Healthcare,INS588729,GRP5302,True,Dr. David Kim,2025-08-03,Edward Young,599-836-5215,7079 Elm St,Houston,AZ,16582
+PAT026,Michelle,Garcia,1949-03-18,254-372-1282,michelle.garcia@email.com,Molina Healthcare,INS738604,GRP5387,False,Dr. David Kim,2025-07-09,Sandra Rodriguez,340-924-2286,4996 Oak Ave,Phoenix,CA,19323
+PAT027,Kenneth,Nelson,1985-07-07,294-965-8216,kenneth.nelson@email.com,Aetna,INS987943,GRP7181,False,Dr. Emily Rodriguez,,Betty Lee,475-996-8195,4548 Oak Ave,Chicago,NY,54969
+PAT028,Kenneth,Brown,1995-07-07,647-483-3797,kenneth.brown@email.com,Humana,INS820168,GRP4630,True,Dr. Sarah Johnson,2024-11-14,Emily Rodriguez,890-907-5811,7876 Pine Rd,Chicago,NY,94429
+PAT029,Ryan,Martin,1960-10-02,548-786-5212,ryan.martin@email.com,Molina Healthcare,INS143185,GRP1027,False,Dr. Michael Chen,,Jennifer Adams,249-174-2362,8874 Pine Rd,Houston,IL,12776
+PAT030,Deborah,Taylor,1991-05-12,956-951-4136,deborah.taylor@email.com,WellCare,INS899161,GRP6243,False,Dr. Lisa Thompson,,Robert Garcia,461-894-4648,7947 Pine Rd,Chicago,CA,51641
+PAT031,Brian,Anderson,1947-12-30,744-273-6153,brian.anderson@email.com,Cigna,INS782079,GRP5982,True,Dr. Lisa Thompson,,George White,611-276-5612,9995 Elm St,Phoenix,AZ,63453
+PAT032,Laura,Nguyen,2000-02-29,912-978-6346,laura.nguyen@email.com,Cigna,INS156725,GRP4865,True,Dr. David Kim,2025-07-14,Jason Hall,948-818-5130,3610 Elm St,New York,TX,77469
+PAT033,Robert,Allen,1948-07-24,771-662-6584,robert.allen@email.com,Molina Healthcare,INS814148,GRP8355,True,Dr. Sarah Johnson,2025-06-28,Jeffrey Davis,585-945-2745,3370 Elm St,Phoenix,CA,72418
+PAT034,Karen,Torres,1992-02-28,510-216-3112,karen.torres@email.com,Blue Cross Blue Shield,INS736593,GRP3031,False,Dr. Sarah Johnson,2024-12-09,Michael Clark,312-975-4869,7206 Main St,Phoenix,CA,26934
+PAT035,James,Anderson,1982-03-20,507-923-2748,james.anderson@email.com,Humana,INS715446,GRP6738,True,Dr. David Kim,2025-07-28,Nancy Jackson,329-750-8995,9208 Oak Ave,Chicago,NY,20918
+PAT036,Kimberly,Flores,1973-08-22,551-576-2300,kimberly.flores@email.com,Kaiser Permanente,INS708955,GRP2668,True,Dr. David Kim,,Ruth Martin,650-813-9298,1793 Pine Rd,New York,IL,63152
+PAT037,Jeffrey,Taylor,1996-10-18,313-524-9097,jeffrey.taylor@email.com,Cigna,INS873395,GRP4189,True,Dr. Michael Chen,2025-03-18,Paul Flores,323-649-1772,134 Oak Ave,New York,TX,52215
+PAT038,Michelle,Rivera,1996-12-20,817-677-3725,michelle.rivera@email.com,Cigna,INS825918,GRP2849,False,Dr. Michael Chen,,Michael Walker,757-185-1766,9453 Elm St,Los Angeles,IL,90708
+PAT039,Betty,Martinez,1994-10-25,770-735-5103,betty.martinez@email.com,Humana,INS128910,GRP6771,True,Dr. Michael Chen,,Helen Anderson,803-245-5588,8294 Pine Rd,Los Angeles,TX,97964
+PAT040,Karen,Campbell,1963-08-24,296-684-8515,karen.campbell@email.com,Cigna,INS669255,GRP1066,True,Dr. Emily Rodriguez,,Betty Rodriguez,593-215-4018,1252 Pine Rd,Los Angeles,AZ,43884
+PAT041,Jacob,Walker,1997-08-01,335-469-1891,jacob.walker@email.com,Molina Healthcare,INS817659,GRP1096,True,Dr. Lisa Thompson,2025-06-27,Ashley Lopez,775-326-2323,1045 Oak Ave,Phoenix,IL,15064
+PAT042,David,Green,2003-06-23,480-873-3126,david.green@email.com,Blue Cross Blue Shield,INS127730,GRP2251,False,Dr. Sarah Johnson,,James Smith,325-925-6877,2206 Elm St,Houston,IL,46010
+PAT043,Nancy,King,1982-12-01,845-397-3907,nancy.king@email.com,Humana,INS814158,GRP6694,True,Dr. Lisa Thompson,,Ronald Taylor,573-933-2580,9862 Oak Ave,New York,TX,11923
+PAT044,Nancy,Nelson,2004-11-01,425-342-2097,nancy.nelson@email.com,WellCare,INS629836,GRP1115,False,Dr. Michael Chen,2025-04-25,David Sanchez,448-155-3553,2559 Elm St,Phoenix,AZ,70883
+PAT045,Brian,Anderson,1959-01-08,651-678-6086,brian.anderson@email.com,UnitedHealth,INS125020,GRP2450,True,Dr. Michael Chen,,Anthony Flores,558-714-2039,9195 Cedar Ln,Los Angeles,NY,60782
+PAT046,Dorothy,Torres,1976-01-23,743-568-5876,dorothy.torres@email.com,Centene,INS333548,GRP9483,True,Dr. Sarah Johnson,2025-04-01,Dorothy Flores,671-760-3951,2890 Cedar Ln,Houston,NY,89773
+PAT047,Donald,Flores,1989-10-09,375-560-4017,donald.flores@email.com,WellCare,INS702447,GRP6563,False,Dr. Lisa Thompson,2025-05-02,Jennifer Allen,616-972-4542,9875 Oak Ave,Los Angeles,TX,33510
+PAT048,Michelle,Thomas,1967-03-01,443-389-6701,michelle.thomas@email.com,Humana,INS300545,GRP1809,True,Dr. Lisa Thompson,,Jennifer Smith,286-555-9478,2839 Elm St,Houston,NY,23305
+PAT049,Ashley,Campbell,1986-03-23,258-874-3950,ashley.campbell@email.com,UnitedHealth,INS842268,GRP8108,True,Dr. Sarah Johnson,2025-03-21,Betty Smith,731-284-9964,1591 Pine Rd,Phoenix,TX,60820
+PAT050,Donna,Perez,2002-03-26,521-210-5187,donna.perez@email.com,WellCare,INS232724,GRP5741,True,Dr. Sarah Johnson,2024-12-14,Ronald Robinson,726-339-9217,3700 Oak Ave,Phoenix,IL,10942
